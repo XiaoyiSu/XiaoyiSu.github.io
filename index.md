@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to  My Oneline Website
 
-You can use the [editor on GitHub](https://github.com/XiaoyiSu/XiaoyiSu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello,everyone!
+My name is Su Xiaoyi.Nice to meet you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my first time to set up a personal website,so there are still many shortcomings.
+I bless the day you find me.
 
-### Markdown
+### 基本信息/Information
+Format: ![](C:\Users\SXY\Documents\Tencent Files\468809383\FileRecv\MobileFile)
+•姓名：苏小艺
+•性别：女♀
+•国籍：中国China
+•专业：工业设计
+•学历：本科在读
+•邮箱：46809383@qq.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 兴趣爱好/Hobby
+•画画&摸鱼
+•追剧追漫观影
+•各种体育运动
+•制作手工DIY
+•看书听音乐
+（简单来说，其实就是吃喝玩乐(～￣▽￣)～）
+[摸鱼作品指路，点击原创可见](https://weibo.com/6793622185)还有好多没传，都是些黑历史_(:з)∠)_
 
-```markdown
-Syntax highlighted code block
+### 特长技能/Skill
+•pr学习中（高中剪过一个微电影，前段时间也做过一两个视频，但都挺一般的，以后有稍微拿得出手的作品再放上来吧）
+•琴棋书画样样不通QAQ
+说实在，感觉自己什么也不会www
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Thanks For Your Watching!
+I will strive hard.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XiaoyiSu/XiaoyiSu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
