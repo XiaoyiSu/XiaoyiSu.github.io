@@ -7,8 +7,8 @@ This is my first time to set up a personal website,so there are still many short
 I bless the day you find me.
   
 ### 基本信息/Information
- <img src="XiaoyiSu.github.io/1607691359725.png" width="50%"> 
-•　姓名：苏小艺　　　　　　　　　　　　　　　•　专业：工业设计    
+ <img src="XiaoyiSu.github.io/1607691359725.png" width="50%">  
+•　姓名：苏小艺　　　　　　　　　　　　　　　•　专业：工业设计  
 •　性别：女♀　　　　　　　　　　　　　　　　　•　学历：本科在读  
 •　国籍：中国China　　　　　　　　　　　　　　•　邮箱：46809383@qq.com  
   
