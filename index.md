@@ -5,7 +5,7 @@ My name is Su Xiaoyi.Nice to meet you!
   
 This is my first time to set up a personal website,so there are still many shortcomings.  
 I bless the day you find me.
-  <bgsound src="XiaoyiSu.github.io/赵海洋 - 夜空的寂静.mp3" autostart=true loop=infinite> 
+<embed src="XiaoyiSu.github.io/赵海洋 - 夜空的寂静.mp3" autostart="true" loop="true">
 ### 基本信息/Information
  <img src="XiaoyiSu.github.io/1607691359725.png" width="50%">  
 •　姓名：苏小艺　　　　　　　　　　　　　　　•　专业：工业设计  
