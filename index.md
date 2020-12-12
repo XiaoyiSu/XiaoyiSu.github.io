@@ -7,7 +7,7 @@ This is my first time to set up a personal website,so there are still many short
 I bless the day you find me.
   
 ### 基本信息/Information
- ![](C:\Users\SXY\Documents\Tencent Files\468809383\FileRecv\MobileFile\1607691359725.png)  
+ ![](XiaoyiSu.github.io/1607691359725.png)  
 • 姓名：苏小艺  
 • 性别：女♀  
 • 国籍：中国China  
