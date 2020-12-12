@@ -20,7 +20,7 @@ I bless the day you find me.
 • 制作手工DIY  
 • 看书听音乐  
 （简单来说，其实就是吃喝玩乐(～￣▽￣)～）  
-[摸鱼作品指路:point_right:点击微博原创可见](https://weibo.com/6793622185)还有好多没传，都是些黑历史_(:з)∠)_
+:point_right:[摸鱼作品指路,点击微博原创可见](https://weibo.com/6793622185)还有好多没传，都是些黑历史_(:з)∠)_
    
    
 ### 特长技能/Skill
