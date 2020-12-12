@@ -8,10 +8,6 @@ I bless the day you find me.
 
 <embed autostart="true" hidden="true" loop="true" src="XiaoyiSu.github.io/赵海洋 - 夜空的寂静.mp3"></embed>
 
-作者：不二
-链接：https://www.zhihu.com/question/50741481/answer/138946224
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
   
 ### 基本信息/Information
  <img src="XiaoyiSu.github.io/1607691359725.png" width="50%">  
