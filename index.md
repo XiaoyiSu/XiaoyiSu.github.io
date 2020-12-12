@@ -11,7 +11,7 @@ I bless the day you find me.
  <img src="XiaoyiSu.github.io/1607691359725.png" width="50%"> 
 •　姓名：苏小艺　　　　　　　　　　　　　　　•　专业：工业设计  
 　•　性别：女♀　　　　　　　　　　　　　　　　　•　学历：本科在读  
-　　•　国籍：中国China　　　　　　　　　　　　　　•　邮箱：46809383@qq.com   
+　　•　国籍：中国China　　　　　　　　　　　　　　•　邮箱：46809383@qq.com  
   
   
 ### 兴趣爱好/Hobby
